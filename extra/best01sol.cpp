@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 std::string itos(int);
 

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stack>
 #include <list>
+
 int count;
 bool isBalanced(std::string);
 void genParenthesis(std::string, int);
