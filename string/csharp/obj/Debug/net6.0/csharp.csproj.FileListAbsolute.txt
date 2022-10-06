@@ -1,0 +1,15 @@
+D:\problems\string\csharp\bin\Debug\net6.0\csharp.exe
+D:\problems\string\csharp\bin\Debug\net6.0\csharp.deps.json
+D:\problems\string\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+D:\problems\string\csharp\bin\Debug\net6.0\csharp.dll
+D:\problems\string\csharp\bin\Debug\net6.0\csharp.pdb
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.dll
+D:\problems\string\csharp\obj\Debug\net6.0\refint\csharp.dll
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.pdb
+D:\problems\string\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+D:\problems\string\csharp\obj\Debug\net6.0\ref\csharp.dll
